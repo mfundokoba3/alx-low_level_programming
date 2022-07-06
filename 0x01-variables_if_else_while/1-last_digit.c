@@ -17,11 +17,11 @@ int main(void)
 	}
 	else if (n == 0)
 	{
-    		printf("Last digit %d and is 0", n);
+    		printf("and is 0");
 	}
 	else (n < 6 && n != 0)
 	{
-    		printf("Last digit is %d and is less than 6 and not 0", n)
+    		printf("and is less than 6 and not 0")
 	}
 	
 	printf("\n");
